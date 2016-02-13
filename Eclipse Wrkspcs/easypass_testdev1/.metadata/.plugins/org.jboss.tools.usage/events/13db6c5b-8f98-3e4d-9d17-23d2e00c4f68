@@ -1,0 +1,11 @@
+#Sat Feb 13 01:42:13 IST 2016
+vl=How many times the 'Finish' button pressed during the day
+l=Wizard class name
+ct=jbt
+d=1455307933349
+c=0
+cmp=usage
+a=finishWizard
+cl=org.eclipse.ui.internal.views.markers.QuickFixWizard
+v=2.0.2
+s=5

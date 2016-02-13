@@ -1,0 +1,3 @@
+127.0.0.1 - - [13/Feb/2016:01:48:08 +0530] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [13/Feb/2016:01:48:10 +0530] "GET /Spring4MVCCRUDRestService/ HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [13/Feb/2016:01:49:17 +0530] "GET /Spring4MVCCRUDRestService/user/ HTTP/1.1" 200 210

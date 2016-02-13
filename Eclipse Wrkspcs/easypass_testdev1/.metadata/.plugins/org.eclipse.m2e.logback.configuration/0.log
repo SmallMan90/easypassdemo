@@ -1,0 +1,1032 @@
+2016-02-13 01:03:44,259 [Worker-49] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginRegister\pom.xml
+2016-02-13 01:03:54,729 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.easypass:LoginRegister:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginRegister\pom.xml.
+2016-02-13 01:03:57,450 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginRegister/src/main/java
+2016-02-13 01:03:57,451 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginRegister/src/main/resources
+2016-02-13 01:03:57,453 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginRegister/src/test/java
+2016-02-13 01:03:57,748 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.easypass:LoginRegister:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginRegister\pom.xml.
+2016-02-13 01:12:35,579 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/apache/maven/plugins/maven-war-plugin/2.4/maven-war-plugin-2.4.jar
+2016-02-13 01:12:36,201 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/apache/maven/plugins/maven-war-plugin/2.4/maven-war-plugin-2.4.jar
+2016-02-13 01:12:36,894 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.4/maven-war-plugin-2.4.jar
+2016-02-13 01:12:38,058 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.4/maven-war-plugin-2.4.jar
+2016-02-13 01:12:38,519 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2016-02-13 01:12:39,888 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:12:41,357 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-webmvc/4.2.0.RELEASE/spring-webmvc-4.2.0.RELEASE.pom
+2016-02-13 01:12:42,102 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-webmvc/4.2.0.RELEASE/spring-webmvc-4.2.0.RELEASE.pom
+2016-02-13 01:12:42,453 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.2.0.RELEASE/spring-webmvc-4.2.0.RELEASE.pom
+2016-02-13 01:12:43,132 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.2.0.RELEASE/spring-webmvc-4.2.0.RELEASE.pom
+2016-02-13 01:12:43,755 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE.pom
+2016-02-13 01:12:44,126 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE.pom
+2016-02-13 01:12:44,402 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE.pom
+2016-02-13 01:12:44,928 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE.pom
+2016-02-13 01:12:45,328 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE.pom
+2016-02-13 01:12:45,711 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE.pom
+2016-02-13 01:12:45,970 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE.pom
+2016-02-13 01:12:46,512 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE.pom
+2016-02-13 01:12:47,187 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE.pom
+2016-02-13 01:12:47,583 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE.pom
+2016-02-13 01:12:47,842 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE.pom
+2016-02-13 01:12:48,380 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE.pom
+2016-02-13 01:12:48,795 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE.pom
+2016-02-13 01:12:49,188 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE.pom
+2016-02-13 01:12:49,458 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE.pom
+2016-02-13 01:12:50,007 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE.pom
+2016-02-13 01:12:50,425 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE.pom
+2016-02-13 01:12:50,847 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE.pom
+2016-02-13 01:12:51,111 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE.pom
+2016-02-13 01:12:51,655 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE.pom
+2016-02-13 01:12:52,058 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-web/4.2.0.RELEASE/spring-web-4.2.0.RELEASE.pom
+2016-02-13 01:12:52,445 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-web/4.2.0.RELEASE/spring-web-4.2.0.RELEASE.pom
+2016-02-13 01:12:52,718 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.2.0.RELEASE/spring-web-4.2.0.RELEASE.pom
+2016-02-13 01:12:53,273 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.2.0.RELEASE/spring-web-4.2.0.RELEASE.pom
+2016-02-13 01:12:53,674 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-tx/4.2.0.RELEASE/spring-tx-4.2.0.RELEASE.pom
+2016-02-13 01:12:54,045 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-tx/4.2.0.RELEASE/spring-tx-4.2.0.RELEASE.pom
+2016-02-13 01:12:54,306 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.2.0.RELEASE/spring-tx-4.2.0.RELEASE.pom
+2016-02-13 01:12:54,844 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.2.0.RELEASE/spring-tx-4.2.0.RELEASE.pom
+2016-02-13 01:12:55,246 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.pom
+2016-02-13 01:12:55,620 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.pom
+2016-02-13 01:12:55,902 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.pom
+2016-02-13 01:12:56,444 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.pom
+2016-02-13 01:12:56,847 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/fasterxml/jackson/jackson-parent/2.5.1/jackson-parent-2.5.1.pom
+2016-02-13 01:12:57,234 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/jackson-parent/2.5.1/jackson-parent-2.5.1.pom
+2016-02-13 01:12:57,507 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.5.1/jackson-parent-2.5.1.pom
+2016-02-13 01:12:58,051 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.5.1/jackson-parent-2.5.1.pom
+2016-02-13 01:12:58,465 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/fasterxml/oss-parent/19/oss-parent-19.pom
+2016-02-13 01:12:58,867 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/fasterxml/oss-parent/19/oss-parent-19.pom
+2016-02-13 01:12:59,151 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/19/oss-parent-19.pom
+2016-02-13 01:12:59,723 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/19/oss-parent-19.pom
+2016-02-13 01:13:00,118 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.pom
+2016-02-13 01:13:00,501 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.pom
+2016-02-13 01:13:00,797 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.pom
+2016-02-13 01:13:01,317 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.pom
+2016-02-13 01:13:01,697 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/fasterxml/jackson/jackson-parent/2.5/jackson-parent-2.5.pom
+2016-02-13 01:13:02,082 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/jackson-parent/2.5/jackson-parent-2.5.pom
+2016-02-13 01:13:02,356 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.5/jackson-parent-2.5.pom
+2016-02-13 01:13:03,463 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.5/jackson-parent-2.5.pom
+2016-02-13 01:13:03,845 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/fasterxml/oss-parent/18/oss-parent-18.pom
+2016-02-13 01:13:04,233 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/fasterxml/oss-parent/18/oss-parent-18.pom
+2016-02-13 01:13:04,506 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/18/oss-parent-18.pom
+2016-02-13 01:13:05,338 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/18/oss-parent-18.pom
+2016-02-13 01:13:05,851 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.pom
+2016-02-13 01:13:06,229 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.pom
+2016-02-13 01:13:06,512 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.pom
+2016-02-13 01:13:07,093 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.pom
+2016-02-13 01:13:07,608 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-webmvc/4.2.0.RELEASE/spring-webmvc-4.2.0.RELEASE.jar
+2016-02-13 01:13:07,969 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE.jar
+2016-02-13 01:13:08,315 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE.jar
+2016-02-13 01:13:08,677 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE.jar
+2016-02-13 01:13:09,047 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE.jar
+2016-02-13 01:13:09,402 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE.jar
+2016-02-13 01:13:09,761 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-web/4.2.0.RELEASE/spring-web-4.2.0.RELEASE.jar
+2016-02-13 01:13:10,120 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-tx/4.2.0.RELEASE/spring-tx-4.2.0.RELEASE.jar
+2016-02-13 01:13:10,478 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.jar
+2016-02-13 01:13:10,837 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.jar
+2016-02-13 01:13:11,194 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.jar
+2016-02-13 01:13:11,640 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-webmvc/4.2.0.RELEASE/spring-webmvc-4.2.0.RELEASE.jar
+2016-02-13 01:13:12,009 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE.jar
+2016-02-13 01:13:12,376 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE.jar
+2016-02-13 01:13:12,737 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE.jar
+2016-02-13 01:13:13,104 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE.jar
+2016-02-13 01:13:13,462 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE.jar
+2016-02-13 01:13:13,830 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-web/4.2.0.RELEASE/spring-web-4.2.0.RELEASE.jar
+2016-02-13 01:13:14,182 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-tx/4.2.0.RELEASE/spring-tx-4.2.0.RELEASE.jar
+2016-02-13 01:13:14,543 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.jar
+2016-02-13 01:13:14,898 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.jar
+2016-02-13 01:13:15,259 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.jar
+2016-02-13 01:13:15,577 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.2.0.RELEASE/spring-webmvc-4.2.0.RELEASE.jar
+2016-02-13 01:13:18,459 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.2.0.RELEASE/spring-webmvc-4.2.0.RELEASE.jar
+2016-02-13 01:13:18,711 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE.jar
+2016-02-13 01:13:21,062 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE.jar
+2016-02-13 01:13:21,326 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE.jar
+2016-02-13 01:13:24,591 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE.jar
+2016-02-13 01:13:24,844 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE.jar
+2016-02-13 01:13:26,458 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE.jar
+2016-02-13 01:13:26,717 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE.jar
+2016-02-13 01:13:29,680 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE.jar
+2016-02-13 01:13:29,933 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE.jar
+2016-02-13 01:13:31,288 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE.jar
+2016-02-13 01:13:31,563 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.2.0.RELEASE/spring-web-4.2.0.RELEASE.jar
+2016-02-13 01:13:34,912 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.2.0.RELEASE/spring-web-4.2.0.RELEASE.jar
+2016-02-13 01:13:35,170 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.2.0.RELEASE/spring-tx-4.2.0.RELEASE.jar
+2016-02-13 01:13:36,760 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.2.0.RELEASE/spring-tx-4.2.0.RELEASE.jar
+2016-02-13 01:13:37,020 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.jar
+2016-02-13 01:13:41,475 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.jar
+2016-02-13 01:13:41,728 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.jar
+2016-02-13 01:13:42,506 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.jar
+2016-02-13 01:13:42,759 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.jar
+2016-02-13 01:13:44,124 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.jar
+2016-02-13 01:13:45,936 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/apache/maven/plugins/maven-war-plugin/2.4/maven-war-plugin-2.4.pom
+2016-02-13 01:13:46,520 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/apache/maven/plugins/maven-war-plugin/2.4/maven-war-plugin-2.4.pom
+2016-02-13 01:13:46,800 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.4/maven-war-plugin-2.4.pom
+2016-02-13 01:13:47,360 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.4/maven-war-plugin-2.4.pom
+2016-02-13 01:13:48,022 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.pom
+2016-02-13 01:13:48,431 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.pom
+2016-02-13 01:13:48,705 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.pom
+2016-02-13 01:13:49,246 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.pom
+2016-02-13 01:13:49,962 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.pom
+2016-02-13 01:13:50,353 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.pom
+2016-02-13 01:13:50,620 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.pom
+2016-02-13 01:13:51,155 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.pom
+2016-02-13 01:13:52,311 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.pom
+2016-02-13 01:13:52,711 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.pom
+2016-02-13 01:13:52,983 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.pom
+2016-02-13 01:13:53,541 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.pom
+2016-02-13 01:13:53,936 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/thoughtworks/xstream/xstream-parent/1.4.2/xstream-parent-1.4.2.pom
+2016-02-13 01:13:54,328 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/thoughtworks/xstream/xstream-parent/1.4.2/xstream-parent-1.4.2.pom
+2016-02-13 01:13:54,595 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.2/xstream-parent-1.4.2.pom
+2016-02-13 01:13:55,170 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.2/xstream-parent-1.4.2.pom
+2016-02-13 01:13:55,745 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.jar
+2016-02-13 01:13:56,096 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.jar
+2016-02-13 01:13:56,451 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.jar
+2016-02-13 01:13:56,825 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.jar
+2016-02-13 01:13:57,187 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.jar
+2016-02-13 01:13:57,587 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.jar
+2016-02-13 01:13:57,902 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.jar
+2016-02-13 01:13:58,521 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.jar
+2016-02-13 01:13:58,773 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.jar
+2016-02-13 01:13:59,977 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.jar
+2016-02-13 01:14:00,742 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.jar
+2016-02-13 01:14:03,674 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.jar
+2016-02-13 01:14:05,329 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring4MVCCRUDRestService/src/main/java
+2016-02-13 01:14:05,329 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Spring4MVCCRUDRestService/src/main/resources
+2016-02-13 01:14:05,330 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring4MVCCRUDRestService/src/test/java
+2016-02-13 01:14:05,678 [Worker-30] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure Spring4MVCCRUDRestService
+org.eclipse.m2e.wtp.MarkedException: Unable to configure Spring4MVCCRUDRestService
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:70) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:250) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:163) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:133) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.ImportMavenProjectsJob$1.doCreateMavenProjects(ImportMavenProjectsJob.java:73) [org.eclipse.m2e.core.ui_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:62) [org.eclipse.m2e.core.ui_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.ImportMavenProjectsJob.runInWorkspace(ImportMavenProjectsJob.java:82) [org.eclipse.m2e.core.ui_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313) ~[org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:150) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:93) ~[na:na]
+	... 20 common frames omitted
+2016-02-13 01:14:05,788 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 92 sec
+2016-02-13 01:14:06,274 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:14:08,548 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:14:09,113 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:14:09,151 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:14:09,156 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:14:09,161 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:14:10,830 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:14:11,568 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:14:11,595 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:14:11,596 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:14:11,599 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:16:14,759 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:16:15,523 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.pom
+2016-02-13 01:16:16,114 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.pom
+2016-02-13 01:16:16,396 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.pom
+2016-02-13 01:16:16,404 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:16:16,798 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.jar
+2016-02-13 01:16:17,160 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.jar
+2016-02-13 01:16:17,829 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.jar
+2016-02-13 01:16:17,963 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:16:18,103 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:16:18,107 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:16:18,109 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:16:18,112 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:16:18,113 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring4MVCCRUDRestService
+2016-02-13 01:16:18,113 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring4MVCCRUDRestService
+2016-02-13 01:16:18,121 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:16:29,606 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:16:30,026 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/javax.servlet-api/3.1/javax.servlet-api-3.1.pom
+2016-02-13 01:16:30,594 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/javax.servlet-api/3.1/javax.servlet-api-3.1.pom
+2016-02-13 01:16:31,119 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1/javax.servlet-api-3.1.pom
+2016-02-13 01:16:31,123 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:3.1 is missing, no dependency information available
+2016-02-13 01:16:31,128 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:3.1 is missing, no dependency information available
+2016-02-13 01:16:31,508 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/javax.servlet-api/3.1/javax.servlet-api-3.1.jar
+2016-02-13 01:16:31,868 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/javax.servlet-api/3.1/javax.servlet-api-3.1.jar
+2016-02-13 01:16:32,408 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1/javax.servlet-api-3.1.jar
+2016-02-13 01:16:32,540 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:3.1 is missing, no dependency information available
+2016-02-13 01:16:32,626 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:16:32,630 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:16:32,631 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:16:32,635 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:16:32,635 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring4MVCCRUDRestService
+2016-02-13 01:16:32,635 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring4MVCCRUDRestService
+2016-02-13 01:16:32,638 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:16:40,548 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:3.1 is missing, no dependency information available
+2016-02-13 01:16:40,589 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Spring4MVCCRUDRestService
+2016-02-13 01:16:40,832 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:16:40,837 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:16:40,838 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:16:40,865 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:17:29,477 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:17:29,482 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:17:29,483 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:17:29,495 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:18:35,847 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:18:35,910 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:3.1 is missing, no dependency information available
+2016-02-13 01:18:36,016 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:3.1 is missing, no dependency information available
+2016-02-13 01:18:36,138 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:18:36,141 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:18:36,143 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:18:36,146 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:19:35,686 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:19:35,756 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:3.1 is missing, no dependency information available
+2016-02-13 01:19:35,862 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:3.1 is missing, no dependency information available
+2016-02-13 01:19:36,004 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:19:36,019 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:19:36,020 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:19:36,024 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:20:08,732 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:20:08,889 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:20:08,954 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:20:09,049 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:20:09,159 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:20:09,163 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:20:09,163 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:20:09,167 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:20:09,167 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring4MVCCRUDRestService
+2016-02-13 01:20:09,167 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring4MVCCRUDRestService
+2016-02-13 01:20:09,174 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:20:25,312 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-02-13 01:20:25,392 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:20:25,458 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:20:25,591 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:20:25,737 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring4MVCCRUDRestService/src/main/java
+2016-02-13 01:20:25,737 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Spring4MVCCRUDRestService/src/main/resources
+2016-02-13 01:20:25,737 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring4MVCCRUDRestService/src/test/java
+2016-02-13 01:20:26,244 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:20:26,362 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:20:26,486 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Spring4MVCCRUDRestService
+2016-02-13 01:20:26,490 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-02-13 01:20:26,588 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:20:26,635 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:20:26,639 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:20:26,639 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:20:26,643 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:21:23,727 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Spring4MVCCRUDRestService
+2016-02-13 01:21:23,904 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:21:23,910 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:21:23,911 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:21:23,915 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:37:31,301 [Worker-45] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-02-13 01:37:31,389 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:37:31,853 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.pom
+2016-02-13 01:37:32,478 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.pom
+2016-02-13 01:37:33,285 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.pom
+2016-02-13 01:37:33,296 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:37:34,063 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.jar
+2016-02-13 01:37:34,209 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.jar
+2016-02-13 01:37:34,825 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.jar
+2016-02-13 01:37:34,939 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:37:35,094 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring4MVCCRUDRestService/src/main/java
+2016-02-13 01:37:35,094 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Spring4MVCCRUDRestService/src/main/resources
+2016-02-13 01:37:35,094 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring4MVCCRUDRestService/src/test/java
+2016-02-13 01:37:35,566 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:37:35,670 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:37:35,790 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Spring4MVCCRUDRestService
+2016-02-13 01:37:35,793 [Worker-45] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2016-02-13 01:37:36,057 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:37:36,157 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:37:36,161 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:37:36,161 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 01:37:36,164 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:39:51,717 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:39:51,783 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:39:51,906 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:39:52,035 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:39:52,035 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:39:52,036 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:39:52,036 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:39:52,036 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring4MVCCRUDRestService
+2016-02-13 01:39:52,036 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring4MVCCRUDRestService
+2016-02-13 01:39:52,041 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:40:04,568 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-02-13 01:40:04,651 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:40:04,708 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:40:04,809 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:40:04,935 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring4MVCCRUDRestService/src/main/java
+2016-02-13 01:40:04,935 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Spring4MVCCRUDRestService/src/main/resources
+2016-02-13 01:40:04,946 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring4MVCCRUDRestService/src/test/java
+2016-02-13 01:40:05,374 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:40:05,473 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:40:05,580 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Spring4MVCCRUDRestService
+2016-02-13 01:40:05,583 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-02-13 01:40:05,832 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:40:05,863 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:40:05,863 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:40:05,864 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:40:05,864 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:40:59,057 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:40:59,058 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:40:59,059 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:40:59,059 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:41:12,470 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:41:12,535 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:41:12,640 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:41:12,757 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:41:12,757 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:41:12,758 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:41:12,758 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:41:37,368 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:41:37,433 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:41:37,533 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:41:37,654 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:41:37,654 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:41:37,655 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:41:37,655 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:41:48,172 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:41:48,205 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:41:48,205 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:41:48,206 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:41:48,206 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:41:52,302 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:41:52,302 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:41:52,303 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:41:52,303 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:42:07,596 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:42:07,659 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:42:07,782 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:42:08,151 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:42:08,151 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:42:08,152 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:42:08,152 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:42:28,896 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-02-13 01:42:28,993 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:42:29,237 [Worker-42] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.pom
+2016-02-13 01:42:29,273 [Worker-42] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.pom
+2016-02-13 01:42:30,000 [Worker-42] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.pom
+2016-02-13 01:42:30,010 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:42:30,074 [Worker-42] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.jar
+2016-02-13 01:42:30,102 [Worker-42] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.jar
+2016-02-13 01:42:30,647 [Worker-42] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.jar
+2016-02-13 01:42:30,743 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:42:30,887 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring4MVCCRUDRestService/src/main/java
+2016-02-13 01:42:30,887 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Spring4MVCCRUDRestService/src/main/resources
+2016-02-13 01:42:30,888 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring4MVCCRUDRestService/src/test/java
+2016-02-13 01:42:31,425 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:42:31,516 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:42:31,625 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Spring4MVCCRUDRestService
+2016-02-13 01:42:31,628 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-02-13 01:42:31,761 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:42:31,796 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:42:31,797 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:42:31,797 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:42:31,797 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:42:40,594 [Worker-54] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Spring4MVCCRUDRestService
+2016-02-13 01:42:40,774 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:42:40,775 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:42:40,775 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:42:40,776 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:43:22,856 [Worker-54] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-02-13 01:43:22,930 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:43:23,171 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.pom
+2016-02-13 01:43:23,219 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.pom
+2016-02-13 01:43:23,804 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.pom
+2016-02-13 01:43:23,813 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:43:26,970 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.jar
+2016-02-13 01:43:27,064 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.jar
+2016-02-13 01:43:27,604 [Worker-54] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/2.5/javax.servlet-api-2.5.jar
+2016-02-13 01:43:27,695 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:43:27,809 [Worker-54] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring4MVCCRUDRestService/src/main/java
+2016-02-13 01:43:27,809 [Worker-54] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Spring4MVCCRUDRestService/src/main/resources
+2016-02-13 01:43:27,809 [Worker-54] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring4MVCCRUDRestService/src/test/java
+2016-02-13 01:43:28,161 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:43:28,252 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:43:28,368 [Worker-54] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Spring4MVCCRUDRestService
+2016-02-13 01:43:28,371 [Worker-54] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-02-13 01:43:28,621 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:2.5 is missing, no dependency information available
+2016-02-13 01:43:28,665 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:43:28,666 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:43:28,666 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:43:28,666 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:44:26,365 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:44:27,165 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/javax.servlet-api/3.0/javax.servlet-api-3.0.pom
+2016-02-13 01:44:27,798 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/javax.servlet-api/3.0/javax.servlet-api-3.0.pom
+2016-02-13 01:44:28,485 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.0/javax.servlet-api-3.0.pom
+2016-02-13 01:44:28,490 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:3.0 is missing, no dependency information available
+2016-02-13 01:44:28,893 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/javax.servlet-api/3.0/javax.servlet-api-3.0.jar
+2016-02-13 01:44:29,334 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/javax.servlet-api/3.0/javax.servlet-api-3.0.jar
+2016-02-13 01:44:30,029 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.0/javax.servlet-api-3.0.jar
+2016-02-13 01:44:30,131 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:3.0 is missing, no dependency information available
+2016-02-13 01:44:30,242 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:44:30,242 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:44:30,243 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:44:30,243 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:44:30,243 [Worker-50] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring4MVCCRUDRestService
+2016-02-13 01:44:30,243 [Worker-50] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring4MVCCRUDRestService
+2016-02-13 01:44:30,249 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:45:16,511 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:45:17,279 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom
+2016-02-13 01:45:17,810 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom
+2016-02-13 01:45:18,476 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom
+2016-02-13 01:45:19,003 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom
+2016-02-13 01:45:19,399 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+2016-02-13 01:45:19,923 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+2016-02-13 01:45:20,185 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+2016-02-13 01:45:21,522 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+2016-02-13 01:45:21,872 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:45:21,872 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:45:21,873 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:45:21,873 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:45:21,873 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring4MVCCRUDRestService
+2016-02-13 01:45:21,873 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring4MVCCRUDRestService
+2016-02-13 01:45:21,875 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:45:23,299 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:45:23,301 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:45:23,301 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:45:23,301 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 01:45:39,316 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 01:45:39,590 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:45:39,591 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 01:45:39,592 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 01:45:39,592 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 02:06:07,823 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 02:06:07,824 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 02:06:07,824 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 02:06:07,824 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 02:52:26,162 [Worker-70] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginService\pom.xml
+2016-02-13 02:52:26,270 [Worker-70] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.easypass:LoginService:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginService\pom.xml.
+2016-02-13 02:52:27,090 [Worker-70] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginService/src/main/java
+2016-02-13 02:52:27,090 [Worker-70] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginService/src/main/resources
+2016-02-13 02:52:27,090 [Worker-70] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginService/src/test/java
+2016-02-13 02:52:28,776 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.easypass:LoginService:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginService\pom.xml.
+2016-02-13 02:52:28,778 [Worker-70] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2016-02-13 02:52:29,445 [Worker-78] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.easypass:LoginService:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginService\pom.xml.
+2016-02-13 02:52:29,507 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:52:29,513 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 02:52:29,514 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:52:29,518 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginService\src\test\resources
+2016-02-13 02:53:06,349 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:53:06,355 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 02:53:06,356 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:53:06,359 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginService\src\test\resources
+2016-02-13 02:54:22,583 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.easypass:LoginTest:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginService\pom.xml.
+2016-02-13 02:54:22,702 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:54:22,706 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 02:54:22,707 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:54:22,710 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginService\src\test\resources
+2016-02-13 02:54:22,710 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginService
+2016-02-13 02:54:22,710 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginService
+2016-02-13 02:54:22,716 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:54:35,407 [Worker-79] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-02-13 02:54:35,473 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.easypass:LoginTest:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginService\pom.xml.
+2016-02-13 02:54:35,568 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginService/src/main/java
+2016-02-13 02:54:35,568 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginService/src/main/resources
+2016-02-13 02:54:35,569 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginService/src/test/java
+2016-02-13 02:54:37,058 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.easypass:LoginTest:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginService\pom.xml.
+2016-02-13 02:54:37,113 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginService
+2016-02-13 02:54:37,118 [Worker-79] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-02-13 02:54:37,314 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:54:37,332 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 02:54:37,333 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:54:37,344 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginService\src\test\resources
+2016-02-13 02:55:00,997 [Worker-70] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.easypass:LoginTest:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\pom.xml.
+2016-02-13 02:55:01,084 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:55:01,088 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 02:55:01,090 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:55:01,094 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 02:55:01,459 [Worker-80] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.easypass:LoginTest:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\pom.xml.
+2016-02-13 02:55:02,222 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:55:02,227 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 02:55:02,228 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:55:02,232 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 02:55:21,320 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:55:21,324 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 02:55:21,324 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:55:21,328 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 02:55:21,334 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 02:55:21,335 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 02:55:21,335 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 02:55:21,335 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 02:55:32,070 [Worker-83] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.easypass:LoginTest:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\pom.xml.
+2016-02-13 02:55:32,110 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:55:32,114 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 02:55:32,115 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:55:32,118 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 02:55:45,187 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:55:45,191 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 02:55:45,192 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:55:45,195 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 02:56:06,149 [Worker-82] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.easypass:LoginTest:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\pom.xml.
+2016-02-13 02:56:06,341 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:56:06,345 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 02:56:06,345 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:56:06,352 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 02:56:10,339 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:56:10,347 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 02:56:10,348 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 02:56:10,352 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:14:39,526 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:14:39,553 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:14:39,555 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:14:39,560 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:14:40,758 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 10:14:40,759 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:14:40,760 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 10:14:40,760 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 10:18:12,769 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/archetype/wfk/jboss-spring-mvc-archetype/2.7.0.Final/jboss-spring-mvc-archetype-2.7.0.Final.pom
+2016-02-13 10:18:13,402 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/archetype/wfk/jboss-spring-mvc-archetype/2.7.0.Final/jboss-spring-mvc-archetype-2.7.0.Final.pom
+2016-02-13 10:18:13,747 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/archetype/wfk/jboss-spring-mvc-archetype/2.7.0.Final/jboss-spring-mvc-archetype-2.7.0.Final.jar
+2016-02-13 10:18:16,165 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/archetype/wfk/jboss-spring-mvc-archetype/2.7.0.Final/jboss-spring-mvc-archetype-2.7.0.Final.jar
+2016-02-13 10:19:10,052 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\easypass\Eclipse Wrkspcs\easypass_testdev1\jboss-springmvc-webapp\pom.xml
+2016-02-13 10:19:10,929 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/bom/wfk/jboss-javaee-6.0-with-spring4.1/2.7.0-redhat-1/jboss-javaee-6.0-with-spring4.1-2.7.0-redhat-1.pom
+2016-02-13 10:19:11,602 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/bom/wfk/jboss-javaee-6.0-with-spring4.1/2.7.0-redhat-1/jboss-javaee-6.0-with-spring4.1-2.7.0-redhat-1.pom
+2016-02-13 10:19:12,538 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/bom/wfk/jboss-javaee-6.0-with-spring4.1/2.7.0-redhat-1/jboss-javaee-6.0-with-spring4.1-2.7.0-redhat-1.pom
+2016-02-13 10:19:12,932 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/bom/wfk/jboss-wfk-bom-parent/2.7.0-redhat-1/jboss-wfk-bom-parent-2.7.0-redhat-1.pom
+2016-02-13 10:19:13,422 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/bom/wfk/jboss-wfk-bom-parent/2.7.0-redhat-1/jboss-wfk-bom-parent-2.7.0-redhat-1.pom
+2016-02-13 10:19:14,155 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/bom/wfk/jboss-wfk-bom-parent/2.7.0-redhat-1/jboss-wfk-bom-parent-2.7.0-redhat-1.pom
+2016-02-13 10:19:14,601 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/jboss-javaee-6.0/3.0.2.Final-redhat-13/jboss-javaee-6.0-3.0.2.Final-redhat-13.pom
+2016-02-13 10:19:15,593 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/jboss-javaee-6.0/3.0.2.Final-redhat-13/jboss-javaee-6.0-3.0.2.Final-redhat-13.pom
+2016-02-13 10:19:16,014 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/bom/wfk/jboss-javaee-6.0-with-tools/2.7.0-redhat-1/jboss-javaee-6.0-with-tools-2.7.0-redhat-1.pom
+2016-02-13 10:19:16,446 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/bom/wfk/jboss-javaee-6.0-with-tools/2.7.0-redhat-1/jboss-javaee-6.0-with-tools-2.7.0-redhat-1.pom
+2016-02-13 10:19:17,188 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/bom/wfk/jboss-javaee-6.0-with-tools/2.7.0-redhat-1/jboss-javaee-6.0-with-tools-2.7.0-redhat-1.pom
+2016-02-13 10:19:17,606 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom
+2016-02-13 10:19:18,225 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom
+2016-02-13 10:19:20,027 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom
+2016-02-13 10:19:20,338 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom
+2016-02-13 10:19:20,961 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom
+2016-02-13 10:19:21,441 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/arquillian/arquillian-bom/1.1.5.Final/arquillian-bom-1.1.5.Final.pom
+2016-02-13 10:19:21,949 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/arquillian/arquillian-bom/1.1.5.Final/arquillian-bom-1.1.5.Final.pom
+2016-02-13 10:19:23,231 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/jboss/arquillian/arquillian-bom/1.1.5.Final/arquillian-bom-1.1.5.Final.pom
+2016-02-13 10:19:23,594 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.1.5.Final/arquillian-bom-1.1.5.Final.pom
+2016-02-13 10:19:24,274 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.1.5.Final/arquillian-bom-1.1.5.Final.pom
+2016-02-13 10:19:24,849 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom
+2016-02-13 10:19:25,354 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom
+2016-02-13 10:19:26,174 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom
+2016-02-13 10:19:26,488 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom
+2016-02-13 10:19:27,120 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom
+2016-02-13 10:19:27,549 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.0/shrinkwrap-resolver-bom-2.1.0.pom
+2016-02-13 10:19:28,166 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.0/shrinkwrap-resolver-bom-2.1.0.pom
+2016-02-13 10:19:29,409 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.0/shrinkwrap-resolver-bom-2.1.0.pom
+2016-02-13 10:19:29,791 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.0/shrinkwrap-resolver-bom-2.1.0.pom
+2016-02-13 10:19:30,513 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.0/shrinkwrap-resolver-bom-2.1.0.pom
+2016-02-13 10:19:31,101 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-5/shrinkwrap-descriptors-bom-2.0.0-alpha-5.pom
+2016-02-13 10:19:31,807 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-5/shrinkwrap-descriptors-bom-2.0.0-alpha-5.pom
+2016-02-13 10:19:32,707 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-5/shrinkwrap-descriptors-bom-2.0.0-alpha-5.pom
+2016-02-13 10:19:33,047 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-5/shrinkwrap-descriptors-bom-2.0.0-alpha-5.pom
+2016-02-13 10:19:33,734 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-5/shrinkwrap-descriptors-bom-2.0.0-alpha-5.pom
+2016-02-13 10:19:34,199 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/arquillian/selenium/selenium-bom/2.43.1/selenium-bom-2.43.1.pom
+2016-02-13 10:19:34,670 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/arquillian/selenium/selenium-bom/2.43.1/selenium-bom-2.43.1.pom
+2016-02-13 10:19:35,850 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/jboss/arquillian/selenium/selenium-bom/2.43.1/selenium-bom-2.43.1.pom
+2016-02-13 10:19:36,157 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/arquillian/selenium/selenium-bom/2.43.1/selenium-bom-2.43.1.pom
+2016-02-13 10:19:36,835 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/arquillian/selenium/selenium-bom/2.43.1/selenium-bom-2.43.1.pom
+2016-02-13 10:19:37,455 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/arquillian/extension/arquillian-drone-bom/1.3.1.Final/arquillian-drone-bom-1.3.1.Final.pom
+2016-02-13 10:19:37,927 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/arquillian/extension/arquillian-drone-bom/1.3.1.Final/arquillian-drone-bom-1.3.1.Final.pom
+2016-02-13 10:19:38,700 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/jboss/arquillian/extension/arquillian-drone-bom/1.3.1.Final/arquillian-drone-bom-1.3.1.Final.pom
+2016-02-13 10:19:39,016 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/arquillian/extension/arquillian-drone-bom/1.3.1.Final/arquillian-drone-bom-1.3.1.Final.pom
+2016-02-13 10:19:39,654 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/arquillian/extension/arquillian-drone-bom/1.3.1.Final/arquillian-drone-bom-1.3.1.Final.pom
+2016-02-13 10:19:40,122 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/arquillian/selenium/selenium-bom/2.42.0/selenium-bom-2.42.0.pom
+2016-02-13 10:19:40,927 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/arquillian/selenium/selenium-bom/2.42.0/selenium-bom-2.42.0.pom
+2016-02-13 10:19:41,934 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/jboss/arquillian/selenium/selenium-bom/2.42.0/selenium-bom-2.42.0.pom
+2016-02-13 10:19:42,245 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/arquillian/selenium/selenium-bom/2.42.0/selenium-bom-2.42.0.pom
+2016-02-13 10:19:42,882 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/arquillian/selenium/selenium-bom/2.42.0/selenium-bom-2.42.0.pom
+2016-02-13 10:19:43,417 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/bom/eap/jboss-eap-bom-parent/6.3.2.GA/jboss-eap-bom-parent-6.3.2.GA.pom
+2016-02-13 10:19:43,910 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/bom/eap/jboss-eap-bom-parent/6.3.2.GA/jboss-eap-bom-parent-6.3.2.GA.pom
+2016-02-13 10:19:44,683 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/bom/eap/jboss-eap-bom-parent/6.3.2.GA/jboss-eap-bom-parent-6.3.2.GA.pom
+2016-02-13 10:19:45,243 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/apache/maven/plugins/maven-surefire-plugin/2.13/maven-surefire-plugin-2.13.jar
+2016-02-13 10:19:45,709 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/apache/maven/plugins/maven-surefire-plugin/2.13/maven-surefire-plugin-2.13.jar
+2016-02-13 10:19:46,581 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/apache/maven/plugins/maven-surefire-plugin/2.13/maven-surefire-plugin-2.13.jar
+2016-02-13 10:19:46,895 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.13/maven-surefire-plugin-2.13.jar
+2016-02-13 10:19:47,880 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.13/maven-surefire-plugin-2.13.jar
+2016-02-13 10:19:48,464 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.jboss.tools.example.springmvc:jboss-springmvc-webapp:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\jboss-springmvc-webapp\pom.xml.
+2016-02-13 10:19:49,097 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final-redhat-2/hibernate-jpa-2.0-api-1.0.1.Final-redhat-2.pom
+2016-02-13 10:19:50,003 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final-redhat-2/hibernate-jpa-2.0-api-1.0.1.Final-redhat-2.pom
+2016-02-13 10:19:50,440 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/jboss-parent/9-redhat-1/jboss-parent-9-redhat-1.pom
+2016-02-13 10:19:51,724 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/jboss-parent/9-redhat-1/jboss-parent-9-redhat-1.pom
+2016-02-13 10:19:52,163 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-component-version-master/6.0.1-redhat-1/jboss-component-version-master-6.0.1-redhat-1.pom
+2016-02-13 10:19:52,951 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-component-version-master/6.0.1-redhat-1/jboss-component-version-master-6.0.1-redhat-1.pom
+2016-02-13 10:19:53,396 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-dependency-management-all/6.0.1-redhat-1/jboss-dependency-management-all-6.0.1-redhat-1.pom
+2016-02-13 10:19:54,647 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-dependency-management-all/6.0.1-redhat-1/jboss-dependency-management-all-6.0.1-redhat-1.pom
+2016-02-13 10:19:55,399 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-dependency-management-build/6.0.1-redhat-1/jboss-dependency-management-build-6.0.1-redhat-1.pom
+2016-02-13 10:19:56,811 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-dependency-management-build/6.0.1-redhat-1/jboss-dependency-management-build-6.0.1-redhat-1.pom
+2016-02-13 10:19:57,306 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-dependency-management-eap/6.0.1-redhat-1/jboss-dependency-management-eap-6.0.1-redhat-1.pom
+2016-02-13 10:19:58,718 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-dependency-management-eap/6.0.1-redhat-1/jboss-dependency-management-eap-6.0.1-redhat-1.pom
+2016-02-13 10:19:59,180 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-project-dependency-relocations/6.0.1-redhat-1/jboss-project-dependency-relocations-6.0.1-redhat-1.pom
+2016-02-13 10:20:00,056 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-project-dependency-relocations/6.0.1-redhat-1/jboss-project-dependency-relocations-6.0.1-redhat-1.pom
+2016-02-13 10:20:00,558 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/hibernate-validator/4.3.2.Final-redhat-1/hibernate-validator-4.3.2.Final-redhat-1.pom
+2016-02-13 10:20:01,543 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/hibernate-validator/4.3.2.Final-redhat-1/hibernate-validator-4.3.2.Final-redhat-1.pom
+2016-02-13 10:20:02,018 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/hibernate-validator-parent/4.3.2.Final-redhat-1/hibernate-validator-parent-4.3.2.Final-redhat-1.pom
+2016-02-13 10:20:03,124 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/hibernate-validator-parent/4.3.2.Final-redhat-1/hibernate-validator-parent-4.3.2.Final-redhat-1.pom
+2016-02-13 10:20:03,682 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/jboss-parent/10-redhat-2/jboss-parent-10-redhat-2.pom
+2016-02-13 10:20:05,101 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/jboss-parent/10-redhat-2/jboss-parent-10-redhat-2.pom
+2016-02-13 10:20:05,556 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-component-version-master/6.1.0-redhat-2/jboss-component-version-master-6.1.0-redhat-2.pom
+2016-02-13 10:20:06,664 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-component-version-master/6.1.0-redhat-2/jboss-component-version-master-6.1.0-redhat-2.pom
+2016-02-13 10:20:07,101 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/javax/validation/validation-api/1.0.0.GA-redhat-2/validation-api-1.0.0.GA-redhat-2.pom
+2016-02-13 10:20:08,037 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/validation/validation-api/1.0.0.GA-redhat-2/validation-api-1.0.0.GA-redhat-2.pom
+2016-02-13 10:20:08,538 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/logging/jboss-logging/3.1.4.GA-redhat-1/jboss-logging-3.1.4.GA-redhat-1.pom
+2016-02-13 10:20:09,475 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/logging/jboss-logging/3.1.4.GA-redhat-1/jboss-logging-3.1.4.GA-redhat-1.pom
+2016-02-13 10:20:09,926 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/hibernate-entitymanager/4.2.14.SP4-redhat-1/hibernate-entitymanager-4.2.14.SP4-redhat-1.pom
+2016-02-13 10:20:10,355 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/hibernate/hibernate-entitymanager/4.2.14.SP4-redhat-1/hibernate-entitymanager-4.2.14.SP4-redhat-1.pom
+2016-02-13 10:20:11,099 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/hibernate/hibernate-entitymanager/4.2.14.SP4-redhat-1/hibernate-entitymanager-4.2.14.SP4-redhat-1.pom
+2016-02-13 10:20:11,457 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/jboss-parent/11/jboss-parent-11.pom
+2016-02-13 10:20:12,752 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/jboss-parent/11/jboss-parent-11.pom
+2016-02-13 10:20:13,131 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final-redhat-2/jboss-transaction-api_1.1_spec-1.0.1.Final-redhat-2.pom
+2016-02-13 10:20:13,879 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final-redhat-2/jboss-transaction-api_1.1_spec-1.0.1.Final-redhat-2.pom
+2016-02-13 10:20:14,307 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/hibernate-core/4.2.14.SP4-redhat-1/hibernate-core-4.2.14.SP4-redhat-1.pom
+2016-02-13 10:20:14,890 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/hibernate/hibernate-core/4.2.14.SP4-redhat-1/hibernate-core-4.2.14.SP4-redhat-1.pom
+2016-02-13 10:20:15,652 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/hibernate/hibernate-core/4.2.14.SP4-redhat-1/hibernate-core-4.2.14.SP4-redhat-1.pom
+2016-02-13 10:20:16,138 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final-redhat-2/hibernate-commons-annotations-4.0.1.Final-redhat-2.pom
+2016-02-13 10:20:16,904 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final-redhat-2/hibernate-commons-annotations-4.0.1.Final-redhat-2.pom
+2016-02-13 10:20:17,286 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/logging/jboss-logging/3.1.2.GA-redhat-1/jboss-logging-3.1.2.GA-redhat-1.pom
+2016-02-13 10:20:18,075 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/logging/jboss-logging/3.1.2.GA-redhat-1/jboss-logging-3.1.2.GA-redhat-1.pom
+2016-02-13 10:20:18,485 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/javassist/javassist/3.18.1-GA-redhat-1/javassist-3.18.1-GA-redhat-1.pom
+2016-02-13 10:20:19,264 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/javassist/javassist/3.18.1-GA-redhat-1/javassist-3.18.1-GA-redhat-1.pom
+2016-02-13 10:20:19,671 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/hibernate-validator-annotation-processor/4.3.2.Final-redhat-1/hibernate-validator-annotation-processor-4.3.2.Final-redhat-1.pom
+2016-02-13 10:20:20,459 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/hibernate-validator-annotation-processor/4.3.2.Final-redhat-1/hibernate-validator-annotation-processor-4.3.2.Final-redhat-1.pom
+2016-02-13 10:20:20,869 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/servlet/jboss-servlet-api_3.0_spec/1.0.2.Final-redhat-1/jboss-servlet-api_3.0_spec-1.0.2.Final-redhat-1.pom
+2016-02-13 10:20:21,637 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/servlet/jboss-servlet-api_3.0_spec/1.0.2.Final-redhat-1/jboss-servlet-api_3.0_spec-1.0.2.Final-redhat-1.pom
+2016-02-13 10:20:22,020 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/jboss-parent/10-redhat-1/jboss-parent-10-redhat-1.pom
+2016-02-13 10:20:23,232 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/jboss-parent/10-redhat-1/jboss-parent-10-redhat-1.pom
+2016-02-13 10:20:23,617 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-component-version-master/6.1.0-redhat-1/jboss-component-version-master-6.1.0-redhat-1.pom
+2016-02-13 10:20:24,614 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-component-version-master/6.1.0-redhat-1/jboss-component-version-master-6.1.0-redhat-1.pom
+2016-02-13 10:20:24,983 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-dependency-management-all/6.1.0-redhat-1/jboss-dependency-management-all-6.1.0-redhat-1.pom
+2016-02-13 10:20:26,159 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-dependency-management-all/6.1.0-redhat-1/jboss-dependency-management-all-6.1.0-redhat-1.pom
+2016-02-13 10:20:26,557 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-dependency-management-build/6.1.0-redhat-1/jboss-dependency-management-build-6.1.0-redhat-1.pom
+2016-02-13 10:20:27,919 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-dependency-management-build/6.1.0-redhat-1/jboss-dependency-management-build-6.1.0-redhat-1.pom
+2016-02-13 10:20:28,312 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-dependency-management-eap/6.1.0-redhat-1/jboss-dependency-management-eap-6.1.0-redhat-1.pom
+2016-02-13 10:20:29,562 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/component/management/jboss-dependency-management-eap/6.1.0-redhat-1/jboss-dependency-management-eap-6.1.0-redhat-1.pom
+2016-02-13 10:20:29,991 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/servlet/jsp/jboss-jsp-api_2.2_spec/1.0.1.Final-redhat-2/jboss-jsp-api_2.2_spec-1.0.1.Final-redhat-2.pom
+2016-02-13 10:20:30,737 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/servlet/jsp/jboss-jsp-api_2.2_spec/1.0.1.Final-redhat-2/jboss-jsp-api_2.2_spec-1.0.1.Final-redhat-2.pom
+2016-02-13 10:20:31,153 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/el/jboss-el-api_2.2_spec/1.0.4.Final-redhat-1/jboss-el-api_2.2_spec-1.0.4.Final-redhat-1.pom
+2016-02-13 10:20:32,096 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/el/jboss-el-api_2.2_spec/1.0.4.Final-redhat-1/jboss-el-api_2.2_spec-1.0.4.Final-redhat-1.pom
+2016-02-13 10:20:32,533 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/servlet/jstl/jboss-jstl-api_1.2_spec/1.0.6.Final-redhat-1/jboss-jstl-api_1.2_spec-1.0.6.Final-redhat-1.pom
+2016-02-13 10:20:33,560 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/servlet/jstl/jboss-jstl-api_1.2_spec/1.0.6.Final-redhat-1/jboss-jstl-api_1.2_spec-1.0.6.Final-redhat-1.pom
+2016-02-13 10:20:34,232 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-context-support/4.1.4.RELEASE/spring-context-support-4.1.4.RELEASE.pom
+2016-02-13 10:20:34,899 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-context-support/4.1.4.RELEASE/spring-context-support-4.1.4.RELEASE.pom
+2016-02-13 10:20:36,632 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/springframework/spring-context-support/4.1.4.RELEASE/spring-context-support-4.1.4.RELEASE.pom
+2016-02-13 10:20:36,946 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.1.4.RELEASE/spring-context-support-4.1.4.RELEASE.pom
+2016-02-13 10:20:37,714 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.1.4.RELEASE/spring-context-support-4.1.4.RELEASE.pom
+2016-02-13 10:20:38,169 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.pom
+2016-02-13 10:20:38,839 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.pom
+2016-02-13 10:20:39,840 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.pom
+2016-02-13 10:20:40,157 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.pom
+2016-02-13 10:20:40,787 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.pom
+2016-02-13 10:20:41,421 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.pom
+2016-02-13 10:20:41,927 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.pom
+2016-02-13 10:20:43,174 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.pom
+2016-02-13 10:20:43,516 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.pom
+2016-02-13 10:20:44,129 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.pom
+2016-02-13 10:20:44,998 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-orm/4.1.4.RELEASE/spring-orm-4.1.4.RELEASE.pom
+2016-02-13 10:20:45,595 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-orm/4.1.4.RELEASE/spring-orm-4.1.4.RELEASE.pom
+2016-02-13 10:20:46,424 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/springframework/spring-orm/4.1.4.RELEASE/spring-orm-4.1.4.RELEASE.pom
+2016-02-13 10:20:46,755 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.1.4.RELEASE/spring-orm-4.1.4.RELEASE.pom
+2016-02-13 10:20:47,399 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.1.4.RELEASE/spring-orm-4.1.4.RELEASE.pom
+2016-02-13 10:20:47,869 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-test/4.1.4.RELEASE/spring-test-4.1.4.RELEASE.pom
+2016-02-13 10:20:48,474 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-test/4.1.4.RELEASE/spring-test-4.1.4.RELEASE.pom
+2016-02-13 10:20:49,624 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/springframework/spring-test/4.1.4.RELEASE/spring-test-4.1.4.RELEASE.pom
+2016-02-13 10:20:49,934 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-test/4.1.4.RELEASE/spring-test-4.1.4.RELEASE.pom
+2016-02-13 10:20:50,563 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-test/4.1.4.RELEASE/spring-test-4.1.4.RELEASE.pom
+2016-02-13 10:20:51,153 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/cglib/cglib-nodep/2.2/cglib-nodep-2.2.pom
+2016-02-13 10:20:51,737 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/cglib/cglib-nodep/2.2/cglib-nodep-2.2.pom
+2016-02-13 10:20:52,911 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/cglib/cglib-nodep/2.2/cglib-nodep-2.2.pom
+2016-02-13 10:20:53,219 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/cglib/cglib-nodep/2.2/cglib-nodep-2.2.pom
+2016-02-13 10:20:53,829 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/cglib/cglib-nodep/2.2/cglib-nodep-2.2.pom
+2016-02-13 10:20:54,287 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/h2database/h2/1.3.165/h2-1.3.165.pom
+2016-02-13 10:20:54,751 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/h2database/h2/1.3.165/h2-1.3.165.pom
+2016-02-13 10:20:55,874 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/com/h2database/h2/1.3.165/h2-1.3.165.pom
+2016-02-13 10:20:56,187 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/h2database/h2/1.3.165/h2-1.3.165.pom
+2016-02-13 10:20:56,805 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/h2database/h2/1.3.165/h2-1.3.165.pom
+2016-02-13 10:20:57,473 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/fasterxml/jackson/core/jackson-core/2.4.3/jackson-core-2.4.3.pom
+2016-02-13 10:20:57,939 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/core/jackson-core/2.4.3/jackson-core-2.4.3.pom
+2016-02-13 10:20:58,705 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/core/jackson-core/2.4.3/jackson-core-2.4.3.pom
+2016-02-13 10:20:59,018 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.3/jackson-core-2.4.3.pom
+2016-02-13 10:20:59,643 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.3/jackson-core-2.4.3.pom
+2016-02-13 10:21:00,130 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/fasterxml/jackson/core/jackson-databind/2.4.3/jackson-databind-2.4.3.pom
+2016-02-13 10:21:00,589 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/core/jackson-databind/2.4.3/jackson-databind-2.4.3.pom
+2016-02-13 10:21:01,399 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/core/jackson-databind/2.4.3/jackson-databind-2.4.3.pom
+2016-02-13 10:21:01,713 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.3/jackson-databind-2.4.3.pom
+2016-02-13 10:21:02,340 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.3/jackson-databind-2.4.3.pom
+2016-02-13 10:21:02,876 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5.pom
+2016-02-13 10:21:03,314 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5.pom
+2016-02-13 10:21:04,149 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5.pom
+2016-02-13 10:21:04,458 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5.pom
+2016-02-13 10:21:05,086 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5.pom
+2016-02-13 10:21:05,703 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final-redhat-2/hibernate-jpa-2.0-api-1.0.1.Final-redhat-2.jar
+2016-02-13 10:21:07,115 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final-redhat-2/hibernate-jpa-2.0-api-1.0.1.Final-redhat-2.jar
+2016-02-13 10:21:07,474 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/hibernate-validator/4.3.2.Final-redhat-1/hibernate-validator-4.3.2.Final-redhat-1.jar
+2016-02-13 10:21:09,727 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/hibernate-validator/4.3.2.Final-redhat-1/hibernate-validator-4.3.2.Final-redhat-1.jar
+2016-02-13 10:21:10,118 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/javax/validation/validation-api/1.0.0.GA-redhat-2/validation-api-1.0.0.GA-redhat-2.jar
+2016-02-13 10:21:11,368 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/validation/validation-api/1.0.0.GA-redhat-2/validation-api-1.0.0.GA-redhat-2.jar
+2016-02-13 10:21:11,715 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/logging/jboss-logging/3.1.4.GA-redhat-1/jboss-logging-3.1.4.GA-redhat-1.jar
+2016-02-13 10:21:12,996 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/logging/jboss-logging/3.1.4.GA-redhat-1/jboss-logging-3.1.4.GA-redhat-1.jar
+2016-02-13 10:21:13,374 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/hibernate-entitymanager/4.2.14.SP4-redhat-1/hibernate-entitymanager-4.2.14.SP4-redhat-1.jar
+2016-02-13 10:21:14,003 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final-redhat-2/jboss-transaction-api_1.1_spec-1.0.1.Final-redhat-2.jar
+2016-02-13 10:21:15,285 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final-redhat-2/jboss-transaction-api_1.1_spec-1.0.1.Final-redhat-2.jar
+2016-02-13 10:21:15,712 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/hibernate-core/4.2.14.SP4-redhat-1/hibernate-core-4.2.14.SP4-redhat-1.jar
+2016-02-13 10:21:16,512 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final-redhat-2/hibernate-commons-annotations-4.0.1.Final-redhat-2.jar
+2016-02-13 10:21:18,042 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final-redhat-2/hibernate-commons-annotations-4.0.1.Final-redhat-2.jar
+2016-02-13 10:21:18,477 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/javassist/javassist/3.18.1-GA-redhat-1/javassist-3.18.1-GA-redhat-1.jar
+2016-02-13 10:21:23,018 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/javassist/javassist/3.18.1-GA-redhat-1/javassist-3.18.1-GA-redhat-1.jar
+2016-02-13 10:21:23,458 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/hibernate-validator-annotation-processor/4.3.2.Final-redhat-1/hibernate-validator-annotation-processor-4.3.2.Final-redhat-1.jar
+2016-02-13 10:21:25,041 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/hibernate/hibernate-validator-annotation-processor/4.3.2.Final-redhat-1/hibernate-validator-annotation-processor-4.3.2.Final-redhat-1.jar
+2016-02-13 10:21:25,480 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/servlet/jboss-servlet-api_3.0_spec/1.0.2.Final-redhat-1/jboss-servlet-api_3.0_spec-1.0.2.Final-redhat-1.jar
+2016-02-13 10:21:27,447 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/servlet/jboss-servlet-api_3.0_spec/1.0.2.Final-redhat-1/jboss-servlet-api_3.0_spec-1.0.2.Final-redhat-1.jar
+2016-02-13 10:21:27,885 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/servlet/jsp/jboss-jsp-api_2.2_spec/1.0.1.Final-redhat-2/jboss-jsp-api_2.2_spec-1.0.1.Final-redhat-2.jar
+2016-02-13 10:21:29,293 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/servlet/jsp/jboss-jsp-api_2.2_spec/1.0.1.Final-redhat-2/jboss-jsp-api_2.2_spec-1.0.1.Final-redhat-2.jar
+2016-02-13 10:21:29,730 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/el/jboss-el-api_2.2_spec/1.0.4.Final-redhat-1/jboss-el-api_2.2_spec-1.0.4.Final-redhat-1.jar
+2016-02-13 10:21:31,126 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/el/jboss-el-api_2.2_spec/1.0.4.Final-redhat-1/jboss-el-api_2.2_spec-1.0.4.Final-redhat-1.jar
+2016-02-13 10:21:31,558 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/servlet/jstl/jboss-jstl-api_1.2_spec/1.0.6.Final-redhat-1/jboss-jstl-api_1.2_spec-1.0.6.Final-redhat-1.jar
+2016-02-13 10:21:35,931 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/jboss/spec/javax/servlet/jstl/jboss-jstl-api_1.2_spec/1.0.6.Final-redhat-1/jboss-jstl-api_1.2_spec-1.0.6.Final-redhat-1.jar
+2016-02-13 10:21:36,365 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-context-support/4.1.4.RELEASE/spring-context-support-4.1.4.RELEASE.jar
+2016-02-13 10:21:36,864 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.jar
+2016-02-13 10:21:37,318 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-orm/4.1.4.RELEASE/spring-orm-4.1.4.RELEASE.jar
+2016-02-13 10:21:37,788 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.jar
+2016-02-13 10:21:38,250 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/springframework/spring-test/4.1.4.RELEASE/spring-test-4.1.4.RELEASE.jar
+2016-02-13 10:21:38,727 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/cglib/cglib-nodep/2.2/cglib-nodep-2.2.jar
+2016-02-13 10:21:39,364 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/h2database/h2/1.3.165/h2-1.3.165.jar
+2016-02-13 10:21:39,950 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/fasterxml/jackson/core/jackson-core/2.4.3/jackson-core-2.4.3.jar
+2016-02-13 10:21:40,650 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/com/fasterxml/jackson/core/jackson-databind/2.4.3/jackson-databind-2.4.3.jar
+2016-02-13 10:21:41,103 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5.jar
+2016-02-13 10:21:42,836 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/hibernate/hibernate-entitymanager/4.2.14.SP4-redhat-1/hibernate-entitymanager-4.2.14.SP4-redhat-1.jar
+2016-02-13 10:21:45,446 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/hibernate/hibernate-entitymanager/4.2.14.SP4-redhat-1/hibernate-entitymanager-4.2.14.SP4-redhat-1.jar
+2016-02-13 10:21:45,825 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/hibernate/hibernate-core/4.2.14.SP4-redhat-1/hibernate-core-4.2.14.SP4-redhat-1.jar
+2016-02-13 10:22:15,771 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/hibernate/hibernate-core/4.2.14.SP4-redhat-1/hibernate-core-4.2.14.SP4-redhat-1.jar
+2016-02-13 10:22:16,324 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-context-support/4.1.4.RELEASE/spring-context-support-4.1.4.RELEASE.jar
+2016-02-13 10:22:17,123 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.jar
+2016-02-13 10:22:17,774 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-orm/4.1.4.RELEASE/spring-orm-4.1.4.RELEASE.jar
+2016-02-13 10:22:18,203 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.jar
+2016-02-13 10:22:18,831 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-test/4.1.4.RELEASE/spring-test-4.1.4.RELEASE.jar
+2016-02-13 10:22:19,301 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/cglib/cglib-nodep/2.2/cglib-nodep-2.2.jar
+2016-02-13 10:22:19,813 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/h2database/h2/1.3.165/h2-1.3.165.jar
+2016-02-13 10:22:20,318 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/core/jackson-core/2.4.3/jackson-core-2.4.3.jar
+2016-02-13 10:22:20,938 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/core/jackson-databind/2.4.3/jackson-databind-2.4.3.jar
+2016-02-13 10:22:21,544 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5.jar
+2016-02-13 10:22:22,951 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/springframework/spring-context-support/4.1.4.RELEASE/spring-context-support-4.1.4.RELEASE.jar
+2016-02-13 10:22:23,935 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.jar
+2016-02-13 10:22:24,921 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/springframework/spring-orm/4.1.4.RELEASE/spring-orm-4.1.4.RELEASE.jar
+2016-02-13 10:22:25,616 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.jar
+2016-02-13 10:22:26,363 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/springframework/spring-test/4.1.4.RELEASE/spring-test-4.1.4.RELEASE.jar
+2016-02-13 10:22:27,399 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/cglib/cglib-nodep/2.2/cglib-nodep-2.2.jar
+2016-02-13 10:22:28,114 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/com/h2database/h2/1.3.165/h2-1.3.165.jar
+2016-02-13 10:22:29,091 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/core/jackson-core/2.4.3/jackson-core-2.4.3.jar
+2016-02-13 10:22:30,092 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/com/fasterxml/jackson/core/jackson-databind/2.4.3/jackson-databind-2.4.3.jar
+2016-02-13 10:22:30,805 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5.jar
+2016-02-13 10:22:31,191 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.1.4.RELEASE/spring-context-support-4.1.4.RELEASE.jar
+2016-02-13 10:22:34,110 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.1.4.RELEASE/spring-context-support-4.1.4.RELEASE.jar
+2016-02-13 10:22:34,431 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.jar
+2016-02-13 10:22:42,994 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.jar
+2016-02-13 10:22:43,314 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.1.4.RELEASE/spring-orm-4.1.4.RELEASE.jar
+2016-02-13 10:22:54,166 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.1.4.RELEASE/spring-orm-4.1.4.RELEASE.jar
+2016-02-13 10:22:54,480 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.jar
+2016-02-13 10:23:00,521 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.jar
+2016-02-13 10:23:00,828 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-test/4.1.4.RELEASE/spring-test-4.1.4.RELEASE.jar
+2016-02-13 10:23:13,303 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-test/4.1.4.RELEASE/spring-test-4.1.4.RELEASE.jar
+2016-02-13 10:23:13,674 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/cglib/cglib-nodep/2.2/cglib-nodep-2.2.jar
+2016-02-13 10:23:19,052 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/cglib/cglib-nodep/2.2/cglib-nodep-2.2.jar
+2016-02-13 10:23:19,379 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/h2database/h2/1.3.165/h2-1.3.165.jar
+2016-02-13 10:23:39,941 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/h2database/h2/1.3.165/h2-1.3.165.jar
+2016-02-13 10:23:40,243 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.3/jackson-core-2.4.3.jar
+2016-02-13 10:23:44,147 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.3/jackson-core-2.4.3.jar
+2016-02-13 10:23:44,456 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.3/jackson-databind-2.4.3.jar
+2016-02-13 10:24:02,987 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.3/jackson-databind-2.4.3.jar
+2016-02-13 10:24:03,301 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5.jar
+2016-02-13 10:24:04,510 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5.jar
+2016-02-13 10:24:05,655 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:Spring4MVCCRUDRestService:1.0.0 @ E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml.
+2016-02-13 10:24:06,617 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/apache/maven/plugins/maven-surefire-plugin/2.13/maven-surefire-plugin-2.13.pom
+2016-02-13 10:24:07,425 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/apache/maven/plugins/maven-surefire-plugin/2.13/maven-surefire-plugin-2.13.pom
+2016-02-13 10:24:08,738 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/apache/maven/plugins/maven-surefire-plugin/2.13/maven-surefire-plugin-2.13.pom
+2016-02-13 10:24:09,072 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.13/maven-surefire-plugin-2.13.pom
+2016-02-13 10:24:09,731 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.13/maven-surefire-plugin-2.13.pom
+2016-02-13 10:24:10,342 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/org/apache/maven/surefire/surefire/2.13/surefire-2.13.pom
+2016-02-13 10:24:10,856 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/apache/maven/surefire/surefire/2.13/surefire-2.13.pom
+2016-02-13 10:24:11,624 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.repository.redhat.com/techpreview/all/org/apache/maven/surefire/surefire/2.13/surefire-2.13.pom
+2016-02-13 10:24:11,951 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.13/surefire-2.13.pom
+2016-02-13 10:24:13,030 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.13/surefire-2.13.pom
+2016-02-13 10:24:14,145 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jboss-springmvc-webapp/src/main/java
+2016-02-13 10:24:14,145 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jboss-springmvc-webapp/src/main/resources
+2016-02-13 10:24:14,155 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jboss-springmvc-webapp/src/test/java
+2016-02-13 10:24:14,155 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jboss-springmvc-webapp/src/test/resources
+2016-02-13 10:24:16,347 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 306 sec
+2016-02-13 10:24:18,111 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.jboss.tools.example.springmvc:jboss-springmvc-webapp:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\jboss-springmvc-webapp\pom.xml.
+2016-02-13 10:24:19,253 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 10:24:19,255 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:24:19,257 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 10:24:19,257 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 10:24:21,149 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.jboss.tools.example.springmvc:jboss-springmvc-webapp:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\jboss-springmvc-webapp\pom.xml.
+2016-02-13 10:24:24,364 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 10:24:24,365 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-02-13 10:24:24,423 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 10:24:24,423 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-02-13 10:24:25,847 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.jboss.tools.example.springmvc:jboss-springmvc-webapp:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\jboss-springmvc-webapp\pom.xml.
+2016-02-13 10:24:31,825 [Worker-23] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Resource '/jboss-springmvc-webapp' does not exist.
+org.eclipse.core.internal.resources.ResourceException: Resource '/jboss-springmvc-webapp' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341) ~[org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215) ~[org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:147) ~[org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.resources.Project.hasNature(Project.java:584) ~[org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.jboss.tools.maven.hibernate.configurators.HibernateProjectConfigurator.configureInternal(HibernateProjectConfigurator.java:53) ~[na:na]
+	at org.jboss.tools.maven.hibernate.configurators.HibernateProjectConfigurator.mavenProjectChanged(HibernateProjectConfigurator.java:90) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:959) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2016-02-13 10:28:13,108 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:28:13,124 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:28:13,124 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:28:13,124 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:30:33,758 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.easypass:LoginTest:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\pom.xml.
+2016-02-13 10:30:35,599 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/jstl/1.2/jstl-1.2.pom
+2016-02-13 10:30:36,597 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/jstl/1.2/jstl-1.2.pom
+2016-02-13 10:30:37,580 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.pom
+2016-02-13 10:30:38,220 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.pom
+2016-02-13 10:30:38,813 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/earlyaccess/all/javax/servlet/jstl/1.2/jstl-1.2.jar
+2016-02-13 10:30:39,452 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/servlet/jstl/1.2/jstl-1.2.jar
+2016-02-13 10:30:39,764 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar
+2016-02-13 10:30:43,758 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar
+2016-02-13 10:30:44,366 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:30:44,366 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:30:44,366 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:30:44,382 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:30:44,382 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginTest
+2016-02-13 10:30:44,383 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginTest
+2016-02-13 10:30:44,383 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:31:01,522 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:31:01,538 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:31:01,538 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:31:01,538 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:32:50,423 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:32:50,443 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:32:50,445 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:32:50,459 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:33:19,472 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:33:19,483 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:33:19,485 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:33:19,497 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:33:46,909 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:33:46,913 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:33:46,914 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:33:46,920 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:34:57,937 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:34:57,953 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:34:57,954 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:34:57,958 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:35:46,745 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:35:46,752 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:35:46,753 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:35:46,762 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:36:12,536 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:36:12,539 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:36:12,540 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:36:12,543 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:36:28,189 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:36:28,192 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:36:28,193 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:36:28,196 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:36:53,182 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.easypass:LoginTest:0.0.1-SNAPSHOT @ E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\pom.xml.
+2016-02-13 10:36:53,697 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:36:53,701 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:36:53,704 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:36:53,716 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:36:53,716 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginTest
+2016-02-13 10:36:53,717 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginTest
+2016-02-13 10:36:53,724 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:41:39,864 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:41:39,870 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:41:39,872 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:41:39,876 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:43:31,450 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:43:31,454 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:43:31,456 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:43:31,460 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:44:15,116 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:44:15,121 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:44:15,122 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:44:15,125 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:44:43,160 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:44:43,164 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:44:43,165 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:44:43,168 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:45:04,316 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:45:04,320 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:45:04,321 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:45:04,323 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:46:31,767 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:46:31,773 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:46:31,773 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:46:31,773 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:47:10,701 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:47:10,717 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:47:10,717 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:47:10,717 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:47:44,104 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:47:44,126 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:47:44,127 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:47:44,130 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:48:11,197 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginTest
+2016-02-13 10:48:11,213 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Spring4MVCCRUDRestService
+2016-02-13 10:48:11,370 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:48:11,370 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:48:11,370 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:48:11,385 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:48:11,575 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 10:48:11,576 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:48:11,576 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-13 10:48:11,576 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Code Samples\Spring4MVCCRUDRestService\src\test\resources
+2016-02-13 10:49:51,042 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:49:51,042 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:49:51,042 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:49:51,058 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:50:20,459 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:50:20,459 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:50:20,459 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:50:20,474 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:50:34,396 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:50:34,396 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:50:34,396 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:50:34,412 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 10:51:05,258 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:51:05,274 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 10:51:05,274 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 10:51:05,290 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 11:34:57,957 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 11:34:57,957 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-13 11:34:57,957 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-13 11:34:57,973 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\easypass\Eclipse Wrkspcs\easypass_testdev1\LoginTest\src\test\resources
+2016-02-13 11:41:03,201 [Worker-51] ERROR o.e.m.e.x.i.MarkerLocationService - Error checking for warnings
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.checkVarious(MarkerLocationService.java:564) [org.eclipse.m2e.editor.xml_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.addEditorHintMarkers(MarkerLocationService.java:241) [org.eclipse.m2e.editor.xml_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.markers.MarkerUtils.addEditorHintMarkers(MarkerUtils.java:66) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:669) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:913) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readMavenProjectFacade(ProjectRegistryManager.java:660) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:377) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2016-02-13 11:41:03,208 [Worker-51] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:572) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: java.io.FileNotFoundException: E:\easypass\Code Samples\Spring4MVCCRUDRestService\pom.xml (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_51]
+	at java.io.FileInputStream.open(Unknown Source) ~[na:1.8.0_51]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[na:1.8.0_51]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	... 23 common frames omitted
